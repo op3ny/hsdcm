@@ -1,5 +1,5 @@
 # AVISO
-- Este projeto não é open-source, verifique a [licença](https://github.com/Hsyst/hps/blob/main/LICENSE.md) antes de executar ou replicar
+- Este projeto não é open-source, verifique a [licença](https://github.com/Hsyst/hsdcm/blob/main/LICENSE.md) antes de executar ou replicar
 
 ---
 
