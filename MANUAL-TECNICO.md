@@ -1,5 +1,5 @@
 # AVISO
-- Este projeto não é open-source, verifique a [licença](https://github.com/Hsyst/hsdcm/blob/main/LICENSE.md) antes de executar ou replicar
+- Este projeto não é open-source, verifique a [licença](https://github.com/op3ny/hsdcm/blob/main/LICENSE.md) antes de executar ou replicar
 
 ---
 
@@ -161,7 +161,7 @@ Sites na HPS são **conteúdo publicado** (estático) identificado por hashes. O
 ### Exemplo de publicação (alto nível)
 
 1. Gere os arquivos estáticos localmente.
-2. Publique-os na rede HPS usando o [Navegador HPS](https://github.com/Hsyst/hps)
+2. Publique-os na rede HPS usando o [Navegador HPS](https://github.com/op3ny/hps)
 3. Registre um domínio `.hps` apontando para o `<hash>` (que representa o `index.html`) (registro na camada de DNS HPS).
 4. Usuário acessa via proxy `http://dominio.extensao` (onde proxy converte dominio para hash). WI e PU fazem o resto. 
 
@@ -215,7 +215,7 @@ Sites na HPS são **conteúdo publicado** (estático) identificado por hashes. O
 ## 13 — Nota final
 
 Este manual técnico reflete os nomes exatos de endpoints, portas padrão, arquivos e fluxos implementados. Use-o como referência de integração para criar sites, ferramentas ou documentar a API local. Para partes do protocolo HPS (registro de domínios na rede, publicação de conteúdo) que dependem de supernó/infra do HPS, recomendo consultar a documentação do servidor HPS (não presente neste repositório).
-Saiba mais em [Manual Técnico HPS (Hsyst Peer to Peer (P2P) Service)](https://github.com/Hsyst/hps/blob/main/tecnico.md).
+Saiba mais em [Manual Técnico HPS (Hsyst Peer to Peer (P2P) Service)](https://github.com/op3ny/hps/blob/main/tecnico.md).
 
 ---
 
