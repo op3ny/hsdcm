@@ -1,5 +1,5 @@
 # AVISO
-- Este projeto não é open-source, verifique a [licença](https://github.com/Hsyst/hsdcm/blob/main/LICENSE.md) antes de executar ou replicar
+- Este projeto não é open-source, verifique a [licença](https://github.com/Hsyst-Eleuthery/hsdcm/blob/main/LICENSE.md) antes de executar ou replicar
 
 ---
 
@@ -9,7 +9,7 @@
 
 *HPS Surface and Desktop Compatibility Module*
 
-Tem interesse em aprender mais a fundo? Criar sites, domínios e desenvolver para a rede HPS? [Clique Aqui!](https://github.com/Hsyst/hsdcm/blob/main/MANUAL-TECNICO.md)
+Tem interesse em aprender mais a fundo? Criar sites, domínios e desenvolver para a rede HPS? [Clique Aqui!](https://github.com/Hsyst-Eleuthery/hsdcm/blob/main/MANUAL-TECNICO.md)
 
 O que é o HSDCM?
 **Resumo rápido:** o HSDCM integra a rede P2P HPS ao seu desktop. Ele fornece:
